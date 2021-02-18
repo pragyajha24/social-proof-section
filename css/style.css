@@ -1,0 +1,97 @@
+body{
+    font-family: 'Spartan',
+    sans-serif;   
+}
+
+#title{
+    padding :7% 15% 3%;
+    text-align:center;
+    
+}
+
+.title-1{
+    padding-right:10rem;
+}
+h1{
+    font-size:2.5rem;
+    color:hsl(300,43%,22%);
+    font-weight:bold;
+}
+
+.title-font{
+    color:hsl(303, 10%, 53%);
+   
+}
+
+.text-magenta{
+    color:hsl(300, 43%, 22%);
+      font-weight:bold;
+      font-size:13px;
+      padding:3% 4% 2% 4% ;
+
+}
+.stars{
+    background-color:hsl(300, 24%, 96%);
+    border-radius:6px; 
+    display:block;
+}
+
+.star-1{
+    position:relative;
+    right:35px;
+}
+
+
+.star-3{
+    position:relative;
+    left:35px;
+}
+
+#testimonials{
+    text-align:center;  
+    margin-right: 15%;
+    margin-left:15%; 
+    margin-bottom:6%;
+    
+}
+
+.person-img{
+    border-radius: 100%;
+    float:left;
+   
+}
+
+.testimonial{
+    background-color:hsl(300, 43%, 22%);
+    border-radius:7px;
+    padding:6% 4%;
+    
+}
+
+.person-name{
+    color:#fff;
+    margin-bottom:0;
+    margin-left:2px;
+}
+
+.buyer{
+    color: hsl(333, 80%, 67%);
+    padding-top:0;
+    padding-bottom:24px;
+}
+
+.tes-2{
+    position:relative;
+    top:20px;
+}
+
+.tes-3{
+   position:relative;
+   top:40px;
+}
+
+.review{
+    color:hsl(300, 24%, 96%);
+    text-align:center;
+}
+
